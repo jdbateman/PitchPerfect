@@ -19,6 +19,10 @@ Press the play button to record audio.
 
 * AVAudioSession and AVAudioRecorder to capture and save audio.
 
+The layout supports both Landscape and Portrait orientations.
+
+![Landscape Orientation](/../screenshots/screenshots/PitchPerfect_screenshot_rotated.png?raw=true "Landscape Orientation")
+
 ### Recording
 
 Press the stop button to stop recording audio and save the audio data to an audio file on the file system.
